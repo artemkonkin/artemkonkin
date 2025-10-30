@@ -1,6 +1,10 @@
 Добрый день!
 
+☄️Sponsor
 https://opencollective.com/diwos-project
+
+🔥SoftResult .NET Nuget package
+https://github.com/DIWOS-Projects/SoftResult
 
 📫 C#/.NET/ASP/EF
 📫 SQL/TSQL
